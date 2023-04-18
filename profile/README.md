@@ -19,7 +19,7 @@
 
 ## 在研/计划的项目
 - [ArceOS源码仓库](https://github.com/rcore-os/arceos)
-- [实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)
+- [当前实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)
 
 ## 相关开源社区
 - [LearningOS开源社区](https://github.com/learningos)
