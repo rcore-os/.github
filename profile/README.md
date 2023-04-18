@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # rCoreOS开源社区
-探索基于Rust语言开发各种架构/形态的操作系统内核框架和可重用的内核组件。
+探索基于Rust语言开发各种架构/形态的操作系统内核框架和可重用的内核组件，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
 - [ArceOS: 组件化操作系统的初步探索](https://learningos.github.io/os-lectures/oslabs/biglabs.html#2)
