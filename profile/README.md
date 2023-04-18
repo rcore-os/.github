@@ -14,7 +14,7 @@
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
 - [ArceOS: 组件化操作系统的初步探索](https://learningos.github.io/os-lectures/oslabs/biglabs.html#2)
 
-## 加入社区指导
+## 加入社区
 欢迎感兴趣的朋友联系[开源社区负责人：李明](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
 
 ## 在研/计划的项目
