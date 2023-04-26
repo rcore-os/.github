@@ -15,7 +15,7 @@
 - [ArceOS: 组件化操作系统的初步探索](https://learningos.github.io/os-lectures/oslabs/biglabs.html#2)
 
 ## 加入社区
-欢迎感兴趣的朋友联系[开源社区负责人：李明](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
+对于感兴趣开发/改进内核模块/内核框架等或想使用本社区提供的各种内核模块的朋友，请联系[开源社区负责人：李明](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
 
 ## 在研/计划的项目
 - [ArceOS源码仓库](https://github.com/rcore-os/arceos)
