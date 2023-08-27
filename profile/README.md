@@ -18,8 +18,8 @@
 对于感兴趣开发/改进内核模块/内核框架等或想使用/合作研发本社区提供的各种内核模块的OS内核开发者，请联系[开源社区负责人：李明](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
 
 ## 在研/计划的项目
-- [ArceOS源码仓库](https://github.com/rcore-os/arceos)，鼓励探索！
-- [当前实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，欢迎报名！
+- [ArceOS源码仓库](https://github.com/rcore-os/arceos)，鼓励探索学习与交流！
+- [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 
 ## 相关开源社区
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
