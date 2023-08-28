@@ -25,4 +25,4 @@
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在技术的操作系统探索
 - [OS比赛开源社区](https://github.com/oscomp)，面向全国高校学生的OS比赛
-- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)
+- [智能网联汽车创新中心训练营:开源操作系统](https://github.com/cicvedu)，面向智能驾驶领域的系统软件开发培训
