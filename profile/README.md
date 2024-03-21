@@ -14,6 +14,11 @@
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
 - [ArceOS: 组件化操作系统的初步探索](https://learningos.github.io/os-lectures/oslabs/biglabs.html#2)
 
+## 新闻
+- [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
+- 2024.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
+- [2024年春季清华计算机系本科生OS课大实验的选题和参考资源](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglab-relatedinfo.md)，欢迎感兴趣的同学和爱好者联系训练营助教（朱懿 微信号 ZhiyuanSue ），申请好友请说明“参加OS大实验”，加入兴趣小组，一起参与探索并挑战未来。
+  
 ## 加入社区
 对于感兴趣开发/改进内核模块/内核框架等或想使用/合作研发本社区提供的各种内核模块的OS内核开发者，请联系[开源社区负责人：李明](https://github.com/LearningOS/rust-based-os-comp2023#%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E8%B4%9F%E8%B4%A3%E4%BA%BA)
 
