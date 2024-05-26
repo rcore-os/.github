@@ -12,7 +12,8 @@
 探索基于Rust语言开发各种架构/形态的操作系统内核框架和可重用的内核组件，研究操作系统各种有趣的技术，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
-- [ArceOS: 组件化操作系统的初步探索](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglabs-list-2023.md)
+- [rCore Tutorial Kernel组件化初步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace)
+- [ArceOS: unikernel架构的组件化操作系统内核的初步探索](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglabs-list-2023.md)
 - [贾越凯博士论文的第四章:“unikernel架构ArceOS内核的设计与实现”](https://github.com/rcore-os/arceos/wiki/docs/main-20240524-62-91.pdf)
 
 ## 新闻
