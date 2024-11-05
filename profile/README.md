@@ -29,6 +29,8 @@
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 
 ## 相关开源社区
+- [内核组件汇聚开源社区](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
+- [组件化OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在计算的操作系统探索
 - [OS比赛开源社区](https://github.com/oscomp)，面向全国高校学生的OS比赛
