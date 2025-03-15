@@ -23,14 +23,13 @@
   
 ## 新闻
 - [2025春夏季开源操作系统训练营：2025.3.30~2024.6.22](https://github.com/LearningOS/)
-- 2025.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 - [2025全国大学生OS比赛：2025.3~2025.8](https://github.com/oscomp/)
-- [2025年春季清华计算机系本科生OS课大实验的选题和参考资源](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglab-relatedinfo-2025s.md)，欢迎感兴趣的同学和爱好者微信联系负责人（ 微信号 chyyuu 或 limingth），申请好友请说明“参加OS大实验”，加入兴趣小组，一起参与探索并挑战未来。
-  
+
 ## 加入社区
 对于感兴趣开发/改进内核模块/内核框架等或想使用/合作研发本社区提供的各种内核模块的OS内核开发者，请联系负责人（ 微信号 chyyuu 或 limingth），申请好友请说明“参加唐图开源社区”，加入唐图开源社区，一起参与探索并挑战未来。
 
 ## 在研/计划的项目
+- [2025年春季清华计算机系本科生OS课大实验的选题和参考资源](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglab-relatedinfo-2025s.md)，欢迎感兴趣的同学和爱好者微信联系负责人（ 微信号 chyyuu 或 limingth），申请好友请说明“参加OS大实验”，加入兴趣小组，一起参与探索并挑战未来。
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！请联系负责人（ 微信号 chyyuu 或 limingth），申请好友请说明“参加唐图社区开源实验项目”。
 
 ## 相关开源社区
