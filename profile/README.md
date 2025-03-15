@@ -19,7 +19,7 @@
 - [ArceOS: unikernel架构的组件化操作系统内核：科研用内核组件化的初步探索](https://github.com/arceos-org/arceos)
 - [Starry-next: monolithic kernel架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/oscomp/starry-next)
 - [axVisor：Hypervisor架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/arceos-hypervisor/axvisor)
-- [开源内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
+- [开源内核组件汇聚中心：汇聚了各种各样的内核组件，并进行安全分析、测试和管理](https://github.com/kern-crates)
   
 ## 新闻
 - [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
