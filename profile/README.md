@@ -12,9 +12,13 @@
 探索基于Rust语言开发各种架构/形态的操作系统内核框架和可重用的内核组件，研究操作系统各种有趣的技术，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
-- [rCore Tutorial Kernel组件化初步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace)
-- [ArceOS: unikernel架构的组件化操作系统内核的初步探索](https://github.com/LearningOS/os-lectures/blob/master/oslabs/biglabs-list-2023.md)
 - [贾越凯博士论文的第四章:“unikernel架构ArceOS内核的设计与实现”](https://github.com/rcore-os/arceos/wiki/docs/main-20240524-62-91.pdf)
+- [rCore Tutorial Kernel：教学用内核组件化初步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace)
+- [rCore Tutorial Kernel：教学用内核组件化进一步探索](https://github.com/crates-rcore-in-single-workspace)
+- [多型态组件化操作系统：教学用内核组件化的再进一步探索](https://opencamp.cn/os2edu/camp/2024fall/stage/3)
+- [ArceOS: unikernel架构的组件化操作系统内核：科研用内核组件化的初步探索](https://github.com/arceos-org/arceos)
+- [Starry-next: monolithic kernel架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/oscomp/starry-next)
+- [axVisor：Hypervisor架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/arceos-hypervisor/axvisor)
 
 ## 新闻
 - [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
