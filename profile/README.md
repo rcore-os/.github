@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 # rCoreOS开源社区 -- 唐图开源社区
-探索基于Rust语言开发各种架构/型态的操作系统内核框架和可重用的内核组件，研究操作系统各种有趣的技术，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
+探索基于Rust语言开发各种架构/型态（简称：多构型）的操作系统内核框架和可重用的内核组件，研究操作系统各种有趣的技术，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
 - [贾越凯博士论文的第四章:“unikernel架构ArceOS内核的设计与实现”](https://github.com/rcore-os/arceos/wiki/docs/main-20240524-62-91.pdf)
@@ -19,7 +19,8 @@
 - [ArceOS: unikernel架构的组件化操作系统内核：科研用内核组件化的初步探索](https://github.com/arceos-org/arceos)
 - [Starry-next: monolithic kernel架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/oscomp/starry-next)
 - [axVisor：Hypervisor架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/arceos-hypervisor/axvisor)
-
+- [开源内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
+  
 ## 新闻
 - [2024春夏季开源操作系统训练营：2024.4.7~2024.6.7](https://github.com/LearningOS/rust-based-os-comp2024)
 - 2024.3.15:[开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
@@ -33,7 +34,7 @@
 - [开源实验小项目招新](https://github.com/orgs/rcore-os/discussions/categories/ideas)，可作为本科或研究生毕设课题，欢迎报名并参加！
 
 ## 相关开源社区
-- [内核组件汇聚开源社区](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
+- [开源内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
 - [组件化OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在计算的操作系统探索
