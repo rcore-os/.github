@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# rCoreOS开源社区 -- 唐图开源社区
+# 唐图(rCoreOS)开源社区
 探索基于Rust语言开发各种架构/型态（简称：多构型）的操作系统内核框架和可重用的内核组件，研究操作系统各种有趣的技术，帮助应用和内核开发者快速搭建满足特定应用需求的高性能高安全操作系统内核。
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
@@ -35,7 +35,7 @@
 
 ## 相关开源社区
 - [开源内核组件汇聚中心](https://github.com/kern-crates) 汇聚了各种各样的内核组件，并进行分析、测试和管理
-- [组件化OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索多构型内核组件化设计
+- [组件化Unikernel架构OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索基于Unikernel ArceOS进一步开展多构型内核组件化设计
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
 - [syswonder开源社区](https://syswonder.org/)，面向泛在计算的操作系统探索
 - [OS比赛开源社区](https://github.com/oscomp)，面向全国高校学生的OS比赛
