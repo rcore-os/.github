@@ -30,7 +30,8 @@
 - [axVisor：Hypervisor架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/arceos-hypervisor/axvisor)
   
 ## 新闻
-- [2025春夏季开源操作系统训练营：2025.3.30~2024.6.22](https://github.com/LearningOS/)
+- [2025第二届中国研究生操作系统开源创新大赛2025.5.1~8月下旬](https://cpipc.acge.org.cn//cw/detail/2c9080178c7c917b018d1b1a0af61cd6/2c908018963934e10196865400e4360c) 
+- [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/)
 - [2025全国大学生OS比赛：2025.3~2025.8](https://github.com/oscomp/)
 
 ## 加入社区
