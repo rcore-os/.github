@@ -30,9 +30,12 @@
 - [axVisor：Hypervisor架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/arceos-hypervisor/axvisor)
   
 ## 新闻
+- [2025开源之夏-唐图社区开源项目](https://summer-ospp.ac.cn/org/orgdetail/4169274d-0d8f-4836-96a4-cc9061ee7a24?lang=zh)
 - [2025第二届中国研究生操作系统开源创新大赛2025.5.1~8月下旬](https://cpipc.acge.org.cn//cw/detail/2c9080178c7c917b018d1b1a0af61cd6/2c908018963934e10196865400e4360c) 
 - [2025春夏季开源操作系统训练营：2025.3.30~2025.6.22](https://github.com/LearningOS/)
 - [2025全国大学生OS比赛：2025.3~2025.8](https://github.com/oscomp/)
+
+**注：上述训练营、比赛、实习等都有唐图社区的题目，欢迎大家报名参加！**
 
 ## 加入社区
 对于感兴趣开发/改进内核模块/内核框架等或想使用/合作研发本社区提供的各种内核模块的OS内核开发者，请联系负责人（ 微信号 chyyuu 或 limingth），申请好友请说明“参加唐图开源社区”，加入唐图开源社区，一起参与探索并挑战未来。
