@@ -16,7 +16,7 @@
 
 - [想法来源：基于泛型独立组件构建各种领域OS](https://github.com/chyyuu/thoughts/blob/main/tangram-oskits.md)
 - [2024年贾越凯博士论文的第四章:关于unikernel架构ArceOS内核的设计与实现](https://github.com/user-attachments/files/19867809/main-20240524-62-91.pdf)
-- [2019-2023年与Rust写OS kernel相关的毕业论文列表](https://learningos.cn/os-lectures/bachelor-projects.html)
+- [2019-2025年与Rust写OS kernel相关的毕业论文列表](https://github.com/LearningOS/bachelor-thesis)
 
 ## 进一步扩展出的开源社区与项目
 - [LearningOS开源社区](https://github.com/learningos)，培养操作系统专业人才
