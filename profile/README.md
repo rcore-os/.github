@@ -10,7 +10,7 @@
 -->
 # 唐图(rCoreOS)开源社区
 探索基于Rust语言开发多构型操作系统内核框架和可组合内核组件，并可像拼七巧板（英文：Tangram，简称 tg；中文也称：唐图）那样，灵活组合出uni-kernel、monolithic-kernel、micro-kernel、hypervisor等各种构型的操作系统内核。帮助内核开发者像开发应用那样，快速搭建满足特定应用需求的定制化操作系统内核。
-目前我们已经在[Rust组件汇聚地 crates.io](https://crates.io/)上发布（publish）了很多这样的内核组件，且还有不少是以** tg-CRATENAME **的名称表示的。
+目前我们已经在[Rust组件汇聚地 crates.io](https://crates.io/)上发布（publish）了很多这样的内核组件，且还有不少是以** tg-CRATENAME **的名称表示的。同时，为便于大家学习，也构造了[七巧板化的rCore-Tuturial -- Tg-rCore](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace/tree/test)。
 ## 起源
 本社区起源于2017年底，清华大学计算机系操作系统课开始探索基于Rust语言的OS实验，并在2018年推出了教学操作系统rCore，并放到了github上。后续逐步开展科研探索，形成了rCore-Tutorial、rcore-in-single-workspace、zCore, ArceOS等一系列的教学科研操作系统。在对这些操作系统进行教学和研发的过程中，我们在进一步思考，能否以单个内核组件为可独立存在并运行的基本单元，并把这些单元组合在一起，形成不同形态和功能的操作系统内核。现在我们正在开发各种内核组件，并尝试组合出arceos、starry、axvisor等异构内核，欢迎大家一起加入我们这个社区！
 
@@ -24,6 +24,7 @@
 - [rCore Tutorial Kernel：教学用内核组件化初步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace)
 - [rCore Tutorial Kernel：教学用内核组件化进一步探索](https://github.com/crates-rcore-in-single-workspace)
 - [多型态组件化操作系统：教学用内核组件化再进一步探索](https://opencamp.cn/os2edu/camp/2024fall/stage/3)
+- [rCore Tutorial Kernel：教学用内核组件化再进一步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace/tree/test)
 - [组件化Unikernel架构OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索基于Unikernel ArceOS进一步开展多构型内核组件化设计
 - [ArceOS: unikernel架构的组件化操作系统内核：科研用内核组件化的初步探索](https://github.com/arceos-org/arceos)
 - [Starry-next: monolithic kernel架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/oscomp/starry-next)
