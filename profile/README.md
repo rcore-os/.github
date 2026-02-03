@@ -24,7 +24,7 @@
 - [rCore Tutorial Kernel：教学用内核组件化初步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace)
 - [rCore Tutorial Kernel：教学用内核组件化进一步探索](https://github.com/crates-rcore-in-single-workspace)
 - [多型态组件化操作系统：教学用内核组件化再进一步探索](https://opencamp.cn/os2edu/camp/2024fall/stage/3)
-- [rCore Tutorial Kernel：教学用内核组件化再进一步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace/tree/test)
+- [rCore Tutorial Kernel：教学用内核组件化再再进一步探索](https://github.com/rcore-os/rCore-Tutorial-in-single-workspace/tree/test)
 - [组件化Unikernel架构OS--ArceOS开源社区](https://github.com/arceos-org/arceos) 探索基于Unikernel ArceOS进一步开展多构型内核组件化设计
 - [ArceOS: unikernel架构的组件化操作系统内核：科研用内核组件化的初步探索](https://github.com/arceos-org/arceos)
 - [Starry-next: monolithic kernel架构的组件化操作系统内核：科研用内核组件化的进一步探索](https://github.com/oscomp/starry-next)
